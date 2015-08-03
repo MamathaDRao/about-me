@@ -1,3 +1,4 @@
 Mamatha
 Born in: Bengaluru
 adding lines to check if changes are still retained in staging
+editing from add-fav-color branch
